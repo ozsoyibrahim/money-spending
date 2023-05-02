@@ -6,7 +6,7 @@
 ### `HTML, CSS, Javascript and React codes were used in this study.`
 
 
-### Please <a href="#">CLICK<a> to go to the webpage. 
+### Please <a href="https://ozsoymoneyspending.netlify.app/">CLICK<a> to go to the webpage. 
 
 ![Screen.gif](./src/img/screen.gif)
 
