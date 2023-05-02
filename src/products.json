@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Gum",
+        "price": 0.5,
+        "image": "https://reimg-carrefour.mncdn.com/mnresize/600/600/productimage/30097717/30097717_0_MC/8796994043954_1570024681556.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Cola",
+        "price": 6,
+        "image": "https://img.b2b.trade/f33b062a-e51c-47d3-b122-8bb15d1ea2b0/-/smart_resize/500x500/-/quality/lightest/-/format/webp/"
+    },
+    {
+        "id": 3,
+        "title": "Shoes",
+        "price": 400,
+        "image": "https://ayb.akinoncdn.com/products/2023/01/05/2286741/3a916489-a910-47f4-b2dd-3c26da9c2f56_size780x780_quality60_cropCenter.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Car",
+        "price": 40000,
+        "image": "https://cdn-nq.toyzzshop.com/product/300x300/4ba30_1:14_BMW_I8_Otomotik_Kapi_Acilan_Usb_Sarjli_Uzakta.jpg"
+    }
+]
